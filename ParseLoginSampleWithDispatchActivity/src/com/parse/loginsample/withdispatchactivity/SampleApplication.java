@@ -40,7 +40,7 @@ public class SampleApplication extends Application {
 
     // Optional - If you don't want to allow Twitter login, you can
     // remove this line (and other related ParseTwitterUtils calls)
-    ParseTwitterUtils.initialize(getString(R.string.twitter_consumer_key),
-        getString(R.string.twitter_consumer_secret));
+    /*ParseTwitterUtils.initialize(getString(R.string.twitter_consumer_key),
+        getString(R.string.twitter_consumer_secret));*/
   }
 }

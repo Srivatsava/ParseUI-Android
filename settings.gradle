@@ -4,7 +4,4 @@ rootProject.name = 'ParseAndroidUI'
 include ':ParseLoginUI'
 
 // Sample Projects
-include ':ParseLoginSampleBasic'
 include ':ParseLoginSampleWithDispatchActivity'
-include ':ParseLoginSampleCodeCustomization'
-include ':ParseLoginSampleLayoutOverride'
